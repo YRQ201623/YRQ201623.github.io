@@ -5,8 +5,8 @@ description: Supported by Omron Corporation (OMRON) <br> Year: 2023 <br> Grant: 
 img:
 redirect: https://unsplash.com
 importance: 002
-category: Project 2023
-permalink: /project/foreground-extraction-algorithm
+category: Project
+permalink: /project
 ---
 
 TBD.
